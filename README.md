@@ -2,7 +2,7 @@
 How to accelerate mobile AI process topic
 
 ## coreML analysis
-for analysis I make a demo use corML framework.
+- [ ] for analysis I make a demo use corML framework.
 
 ## SNPE analysis
 
